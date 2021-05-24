@@ -1,0 +1,26 @@
+Tableau Challenge Analysis
+
+Data Time Frame
+    For the purposes of this project, I used January data from 2021 and 2022 in order to create a multi-year analysis on the trends and changes in Citi bike ridership.
+
+Station Heat Map
+    The station Heat Map visualizes the most popular starting and ending points in New York. As displayed in the heat map,
+    there is considerable crossover between the popular starting stations and the popular ending stations, as is to be expected. 
+    The most popular starting station in January '21 and '20 is "1 Ave and E 68 St" and the most popular ending station 
+    is Pershing Square North.
+
+2021 vs. 2020
+    The 2021 vs. 2020 section of the story displays the changes in ridership from January '20 to January '21. Looking at the raw counts
+    of rides, ridership in January '21 decreased by about 12% from January '20. In addition, the proportion of riders who are yearly subscribers
+    decreased from 92% in 2020 to 86% in 2021. In tandem with this decrease in the proportion of yearly subscribers, 
+    there was an increase in the customer base from 8% to 14%, which are customers who pay for single-use or daily passes (more short-term in nature
+    compared to yearly subscribers).
+
+Female Ridership
+    As displayed in the female ridership portion of the story, Citi Bike's initiative to increase the proportion of female riders in 2021
+    has been effective. The proportion of female riders increased from 22.5% in 2020 to 26.5% in 2021. In addition, the raw number of female
+    riders increased despite an overall decrease in ride counts from 2020 to 2021, indicating the female outreach initiative was successful.
+
+Trip Duration by Age
+    As expected, younger riders tend to use the bikes for longer duration on average. For all riders the average length of ride settles
+    around 750 seconds, or about 12.5 minutes.
